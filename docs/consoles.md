@@ -1,5 +1,5 @@
 # Joining on Consoles
-- [Back](/tulipsmp)
+- [Back](/)
 
 Minecraft Bedrock edition for consoles does not officially support third-party servers. Because of this, **I cannot guarantee that you will be able to join Tulip SMP from a console**. 
 

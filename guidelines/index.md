@@ -1,6 +1,6 @@
 # Tulip SMP - Guidelines
 
-- [Back](/tulipsmp/)
+- [Back](/)
 
 This document outlines all rules that players and Staff are expected to follow.
 

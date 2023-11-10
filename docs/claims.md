@@ -1,5 +1,5 @@
 # Tulip SMP - Claims
-- [Back](/tulipsmp)
+- [Back](/)
 
 Tulip SMP has a claims system called GreifPrevention that makes keeping your builds safe from being destroyed or modified by others. This guide goes through all you need to know to get started.
 

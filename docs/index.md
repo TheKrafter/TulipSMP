@@ -1,6 +1,6 @@
 # Tulip SMP - Docs
 
-- [Back](/tulipsmp/)
+- [Back](/)
 
 Documentation for Tulip SMP players and staff. 
 
@@ -8,6 +8,6 @@ Documentation for Tulip SMP players and staff.
 
 ## Pages
 
-- [Commands](/tulipsmp/docs/commands/)
-- [Staff Guide](/tulipsmp/docs/staffguide/)
-- [Permissions](/tulipsmp/docs/permissions)
+- [Commands](/docs/commands/)
+- [Staff Guide](/docs/staffguide/)
+- [Permissions](/docs/permissions)

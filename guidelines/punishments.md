@@ -1,6 +1,6 @@
 # Tulip SMP - Punishment Guidelines
 
-- [Back](/tulipsmp/guidelines/)
+- [Back](/guidelines/)
 
 ## About
 
@@ -46,7 +46,7 @@ Rule | Misdemeanor | Punishment
 
 *These apply to all actions done ingame, within the Minecraft or Terraria servers.*
 
-Feel free to [/jail](https://krafterdev.xyz/tulipsmp/docs/commands/#togglejail) people instead of tempbanning them, for cool and poggerness and also its neat for lore.
+Feel free to [/jail](/docs/commands/#togglejail) people instead of tempbanning them, for cool and poggerness and also its neat for lore.
 
 Rule | Misdemeanor | Punishment
 -----|-------------|-----------

@@ -1,6 +1,6 @@
 # Tulip SMP - Commands
 
-- [Back](/tulipsmp/docs)
+- [Back](/docs)
 
 > **Tip!** Command options marked like `[this]` are required, ones marked with `<these>` are optional. 
 

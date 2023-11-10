@@ -1,6 +1,6 @@
 # Tulip SMP - New Staff Member Guide
 
-- [Main Page](/tulipsmp)
+- [Main Page](/)
 
 ## Welcome to the Team!
 
@@ -11,10 +11,10 @@ Before you can start moderating, you'll have to do some reading.
 
 ### Guidelines
 
-Make sure you've read the [Guidelines](/tulipsmp/guidelines) (both the Member and Staff sections) and have no reservations. If you do take issue with these guidelines, please [reach out to me!](/socials)
+Make sure you've read the [Guidelines](/guidelines) (both the Member and Staff sections) and have no reservations. If you do take issue with these guidelines, please [reach out to me!](https://krafterdev.xyz/socials)
 
 
-Additionally, you should read the [Punishment Guidelines](/tulipsmp//guidelines/punishments) so you know how our punishments are handled on Tulip SMP. 
+Additionally, you should read the [Punishment Guidelines](/guidelines/punishments) so you know how our punishments are handled on Tulip SMP. 
 
 
 ### 

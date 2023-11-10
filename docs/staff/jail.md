@@ -1,6 +1,6 @@
 # Tulip SMP - Jail System
 
-- [Back](/tulipsmp/docs/staffguide)
+- [Back](/docs/staffguide)
 
 ## About
 

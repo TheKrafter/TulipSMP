@@ -1,6 +1,6 @@
 # Tulip SMP - Permissions
 
-- [Back](/tulipsmp/docs)
+- [Back](/docs)
 
 ## Permission Levels
 
@@ -18,4 +18,4 @@ Here are those levels, from highest to lowest:
 - Jr. Moderator (`jrmod`)
 - Player (`default`)
 
-For what commands each level has access to, see the [Commands](/tulipsmp/docs/commands) page.
+For what commands each level has access to, see the [Commands](/docs/commands) page.

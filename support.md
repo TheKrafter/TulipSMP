@@ -1,6 +1,6 @@
 # Tulip SMP - Support
 
-- [Back](/tulipsmp/)
+- [Back](/)
 
 ### Hey, I'm Krafter!
 
